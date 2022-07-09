@@ -1,0 +1,23 @@
+.img-sz{
+    height: 40px;
+    width: 5%;
+}
+h3{
+    text-transform: capitalize;
+    color: rgb(175, 7, 7);;
+}
+span{
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    
+    color: rgb(0, 0, 0);
+}
+.sz{
+    height: 13cm;
+    width: 23cm;
+}
+.lr{
+    float:right;
+    padding-bottom: 1cm;
+}
